@@ -7,3 +7,9 @@
 ## Kassutronics Ladder Filter<br>
 [Transistor ladder filter](https://kassu2000.blogspot.com/2018/07/transistor-ladder-filter.html)<br>
 [kassutronics/documentation/Transistor Ladder Filter/](https://github.com/kassu/kassutronics/tree/master/documentation/Transistor%20Ladder%20Filter)<br>
+<br>
+## HAGIWO/ハギヲ EG2 Envelope Generator<br>
+[Envelope Generator](https://note.com/solder_state/n/n69643b792274)<br>
+<br>
+![EG2](/images/EG2.jpg)
+<br>

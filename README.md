@@ -1,4 +1,13 @@
 # **Eurorack synthesizer modules**<br>
+## Fitzgreyve MUWZ<br>
+[Eurorack emulation of the Triadex MUSE](https://fitzgreyve2.blogspot.com/p/fitzgreyve-eurorack-modules.html)<br>
+<br>
+![MUWZ](/images/MUWZ.jpg)
+## allen synthesis EuroPi<br>
+[allen synthesis EuroPi](https://allensynthesis.co.uk/modules/europi.html)<br>
+[github EuroPi](https://github.com/Allen-Synthesis/EuroPi)<br>
+<br>
+![EuroPi](/images/EuroPi.jpg)
 ## gerb-ster T.H. 566 VCO<br>
 [Thomas Henry 566 VCO](https://www.gerbster.nl/eurorack/thomas-henry-566-vco/)<br>
 [gerb-ster/TH-566-VCO](https://github.com/gerb-ster/TH-566-VCO)<br>

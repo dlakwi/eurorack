@@ -1,4 +1,10 @@
 # **Eurorack synthesizer modules**<br>
+## Twin Peaks Bandpass Filter
+Bandpass filter based on Rob Hordijk's Twin Peak filter (https://thehordijkmodular.blogspot.com/2018/02/the-twinpeak-filter-best-filter-ever-in.html)<br>
+<br>
+This rendition uses two [Electrosmith 2144 LPF submodules](https://www.electro-smith.com/electro-boards/2144-lpf-v2) according to [Hordijk's flowchart](https://2.bp.blogspot.com/-fCgen07TcZI/WpKziQW7JRI/AAAAAAAAAEo/BOkGnAuWkAAybJLlsGkz-vGUOhEpOYgXgCLcBGAs/s1600/TWINPEAK_flowchart.jpg).<br>
+[sound sample #1](/audio/TwinPeaks_1.mp3)<br>
+![TwinPeaks](/images/TwinPeaks_pic.png)
 ## Fitzgreyve MUWZ<br>
 [Eurorack emulation of the Triadex MUSE](https://fitzgreyve2.blogspot.com/p/fitzgreyve-eurorack-modules.html)<br>
 <br>

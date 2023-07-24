@@ -1,6 +1,6 @@
 # **Eurorack synthesizer modules**<br>
 ## Twin Peaks Bandpass Filter
-Bandpass filter based on [Rob Hordijk's Twin Peak filter](https://thehordijkmodular.blogspot.com/2018/02/the-twinpeak-filter-best-filter-ever-in.html)
+[Bandpass filter](/schematics/TwinPeaks_schematic.png) based on [Rob Hordijk's Twin Peak filter](https://thehordijkmodular.blogspot.com/2018/02/the-twinpeak-filter-best-filter-ever-in.html)
 <br>
 This rendition uses two [Electrosmith 2144 LPF submodules](https://www.electro-smith.com/electro-boards/2144-lpf-v2) according to [Hordijk's flowchart](https://2.bp.blogspot.com/-fCgen07TcZI/WpKziQW7JRI/AAAAAAAAAEo/BOkGnAuWkAAybJLlsGkz-vGUOhEpOYgXgCLcBGAs/s1600/TWINPEAK_flowchart.jpg).
 <br>

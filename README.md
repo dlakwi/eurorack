@@ -4,7 +4,7 @@ Bandpass filter based on [Rob Hordijk's Twin Peak filter](https://thehordijkmodu
 <br>
 This rendition uses two [Electrosmith 2144 LPF submodules](https://www.electro-smith.com/electro-boards/2144-lpf-v2) according to [Hordijk's flowchart](https://2.bp.blogspot.com/-fCgen07TcZI/WpKziQW7JRI/AAAAAAAAAEo/BOkGnAuWkAAybJLlsGkz-vGUOhEpOYgXgCLcBGAs/s1600/TWINPEAK_flowchart.jpg).
 <br>
-[sound sample #1](/audio/TwinPeaks_1.mp3)<!--{:target="_blank" rel="noopener"}--><br>
+[sound sample #1](https://www.youtube.com/watch?v=bNdqK5-4yjw)<br>
 <br>
 ![TwinPeaks](/images/TwinPeaks_pic.png)
 ## Fitzgreyve MUWZ<br>

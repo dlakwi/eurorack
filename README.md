@@ -33,5 +33,5 @@ This [rendition](/schematics/TwinPeaks_schematic.png) uses two [Electrosmith 214
 ## Meebilt 3340 VCO<br>
 [3340 VCO](https://github.com/tkilla64/eurorack/tree/main/3340-vco)<br>
 <br>
-![VCO](/images/3340%20VCO%20Meebilt%20back.jpg)
+![VCO](/images/3340%20VCO%20Meebilt%20front.jpg)
 <br>

@@ -1,4 +1,8 @@
 # **Eurorack synthesizer modules**<br>
+## HaGiWo SyncVCO
+A [digital VCO with hard and soft sync](https://note.com/solder_state/n/n79d13c9e37c8)
+<br>
+![SyncVCO](/images/SyncVCO.jpg)
 ## Twin Peaks Bandpass Filter
 Bandpass filter based on [Rob Hordijk's Twin Peak filter](https://thehordijkmodular.blogspot.com/2018/02/the-twinpeak-filter-best-filter-ever-in.html)
 <br>

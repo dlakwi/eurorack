@@ -1,6 +1,7 @@
 # **Eurorack synthesizer modules**<br>
 ## HaGiWo SyncVCO
-A [digital VCO with hard and soft sync](https://note.com/solder_state/n/n79d13c9e37c8)
+A [digital VCO with hard and soft sync](https://note.com/solder_state/n/n79d13c9e37c8)<br>
+A few additions and changes to the [circuit](/schematics/SyncVCO_schematic.png).<br>
 <br>
 ![SyncVCO](/images/SyncVCO.jpg)
 ## Twin Peaks Bandpass Filter
